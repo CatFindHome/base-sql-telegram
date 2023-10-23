@@ -15,7 +15,7 @@ def start(message):
     conn.close()
 
     bot.send_message(message.chat.id, 'Привет, тут храняться твой даные логин и пароль от интернета.' 
-    '\n Telegram @voron4px'
+    '\n Telegram @blayd4cat'
     '\n')
     
     bot.send_message(message.chat.id, 'Введите логин')
